@@ -1,0 +1,28 @@
+ h1{
+
+   margin: 25px;
+    border-radius:  8px; ;
+    padding-top:20px;
+    padding-left: 20px ;
+      height: 100px;  
+
+} 
+
+h2{
+    border: 1px solid rgb(189, 188, 188);
+    margin: 20px;
+    border-radius:  8px; ;
+  padding-top: 10px;
+    padding-left: 20px ;
+      height: 70px;  
+}
+form{
+    padding:10px ;
+    margin-left: 25px;
+}
+.main{
+    padding:10px ;
+    margin-left: 25px;
+    color: rgb(126, 105, 85);
+    background-color: rgb(253, 242, 220);
+}
